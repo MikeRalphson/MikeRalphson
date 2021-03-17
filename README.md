@@ -6,9 +6,9 @@
 ### Most recent blog posts
 
 
+* [GraphQL is King](https://dev.to/mikeralphson/graphql-is-king-1bgi)
 * [How to get your web API noticed](https://dev.to/mikeralphson/how-to-get-your-web-api-noticed-5al2)
 * [Slate and the Future](https://dev.to/mikeralphson/slate-and-the-future-1d4a)
 * [A brief history of Web APIs](https://dev.to/mikeralphson/a-brief-history-of-web-apis-47k4)
 * [A brief history of the OpenAPI Specification](https://dev.to/mikeralphson/a-brief-history-of-the-openapi-specification-3g27)
-* [Why there is no such thing as the Richardson Maturity Model](https://dev.to/mikeralphson/why-there-is-no-such-thing-as-the-richardson-maturity-model-3b4)
 

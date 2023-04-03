@@ -6,9 +6,9 @@
 ### Most recent blog posts
 
 
+* [OpenAPI 3.1 - The Gnarly Bits](https://dev.to/mikeralphson/openapi-31-the-gnarly-bits-58d0)
 * [Raspberry Pi radio alarm clock - part 1](https://dev.to/mikeralphson/raspberry-pi-radio-alarm-clock-part-1-43mf)
 * [GraphQL is King](https://dev.to/mikeralphson/graphql-is-king-1bgi)
 * [How to get your web API noticed](https://dev.to/mikeralphson/how-to-get-your-web-api-noticed-5al2)
 * [Slate and the Future](https://dev.to/mikeralphson/slate-and-the-future-1d4a)
-* [A brief history of Web APIs](https://dev.to/mikeralphson/a-brief-history-of-web-apis-47k4)
 

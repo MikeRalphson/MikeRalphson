@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/MikeRalphson/MikeRalphson#readme",
   "dependencies": {
-    "ejs": "^3.1.7",
+    "ejs": "^3.1.9",
     "feed-read-parser": "git+https://github.com/MikeRalphson/feed-read-parser.git"
   }
 }
